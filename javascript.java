@@ -1,5 +1,8 @@
 package Fall0811;
 import java.util.Iterator;
+import java.util.trteemap;
+import java.util.scaner;
+import java.util.printer;
 
 public class GenericList<E> implements Iterable<E>{
  // class constant
